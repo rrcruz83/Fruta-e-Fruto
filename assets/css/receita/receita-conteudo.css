@@ -1,0 +1,5 @@
+.receita__conteudo {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
